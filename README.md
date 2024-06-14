@@ -333,4 +333,22 @@ These routes collectively enable the full CRUD functionality for managing users 
 
 
 ## API ScreenShort
+### User is Craeted
+
 <code><img alt="certified scrum master" src="https://github.com/coderskamrul/laravel-crud/blob/main/crud-project/img/User%20created.jpg"></code>
+
+### Show All User
+<code><img alt="certified scrum master" src="https://github.com/coderskamrul/laravel-crud/blob/main/crud-project/img/get%20all%20user%20api.jpg"></code>
+
+### Show Specific User Base on ID
+<code><img alt="certified scrum master" src="https://github.com/coderskamrul/laravel-crud/blob/main/crud-project/img/sepecific%20user%20found.jpg"></code>
+
+### User Updated Base on ID
+<code><img alt="certified scrum master" src="https://github.com/coderskamrul/laravel-crud/blob/main/crud-project/img/user%20updated.jpg"></code>
+
+### User Deleted Base on ID
+<code><img alt="certified scrum master" src="https://github.com/coderskamrul/laravel-crud/blob/main/crud-project/img/user%20deleted.jpg"></code>
+
+### User Validation when User Create and Updated
+<code><img alt="certified scrum master" src="https://github.com/coderskamrul/laravel-crud/blob/main/crud-project/img/validation%20user%20data.jpg"></code>
+
