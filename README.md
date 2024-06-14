@@ -330,3 +330,7 @@ Route::POST('/user-create', [CreateUserController::class, 'store']);
 Route::DELETE('/user-delete/{id}', [DeleteUserController::class, 'destroy']);
 ```
 These routes collectively enable the full CRUD functionality for managing users in the Laravel application.
+
+
+## API ScreenShort
+<code><img alt="certified scrum master" src="https://github.com/coderskamrul/laravel-crud/blob/main/crud-project/img/User%20created.jpg"></code>
