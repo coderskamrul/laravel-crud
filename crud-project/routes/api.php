@@ -23,4 +23,4 @@ Route::GET('/users', [UserCrudController::class, 'index']);
 Route::GET('/user-find/{id}', [FindUserController::class, 'show']);
 Route::PUT('/user-edit/{id}', [UpdateUserController::class, 'update']);
 Route::POST('/user-create', [CreateUserController::class, 'store']);
-Route::DELETE('/user-delete/{id}', [DeleteUserController::class, 'destroy']);
+Route::DELETE('/user-delete/{id}', [DeleteUserController::class, 'destroy']); 
